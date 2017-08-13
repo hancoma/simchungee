@@ -1,6 +1,6 @@
 ﻿<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.simchungee.hancoma" version="1.0.5">
-  <name>심청이</name>
-  <description>심청이</description>
+  <name>심청이쇼핑</name>
+  <description>심청이쇼핑</description>
   <author href="http://atopynews.co.kr" email="ch7@daum.net">김대경</author>
   <content src="index.html"/>
 <preference name='phonegap-version' value='cli-6.5.0' />
