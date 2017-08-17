@@ -144,7 +144,7 @@ function alert_msg(title,msg) {
  
 // 종류
 function exit_show() {
-navigator.notification.confirm("종료하시겠습니까? ", onConfirm, "Confirmation", "Yes,No"); 
+navigator.notification.confirm("종료하시겠습니까? ", onConfirm, "확인", "예,아니요"); 
 }
 
 function onConfirm(button) {
